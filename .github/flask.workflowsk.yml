@@ -47,4 +47,8 @@ __pycache__/
 pip freeze > requirements.txtgit add .
 git commit -m "Describe your changes"
 git push origin main
+git add .
+git commit -m "Prepare for Render deployment"
+git push origin main
+
 
